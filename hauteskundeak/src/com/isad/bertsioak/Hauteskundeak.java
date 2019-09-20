@@ -30,6 +30,8 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Carabanchel");
 		h2012.gehituMahaia("Atapuerca");
 		h2012.gehituMahaia("Durango");
+		h2012.gehituMahaia("Lemoa");
+		
 		
 		System.out.println(h2012);
 	}
